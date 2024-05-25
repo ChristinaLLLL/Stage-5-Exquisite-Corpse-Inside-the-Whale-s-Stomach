@@ -61,7 +61,7 @@ I created a word game about explorers, you can enter different branch plots acco
 ### 🟪 Stage 5
 - Name/Alias: ChristinaLLLL
 - Github account: https://github.com/ChristinaLLLL
-- Published webpage for stage 5:
+- Published webpage for stage 5:https://christinallll.github.io/Stage-5-Exquisite-Corpse-Inside-the-Whale-s-Stomach/
 
 *When coming up with ideas for an environment, I remembered the movie Pinocchio when he got stuck inside the whale's mouth.  It used to scare me to death as a child; I would get worried that if I were swimming in the ocean, I could easily get swallowed up and stuck inside the whale's belly.  My parents would miss me so much.  I remember how my imagination could go nuts when I was little.  As much as it is scary to have such a big imagination as a child, wouldn’t we all love to go back to those years to experience that mythical belief again?   
 I chose the work of another student who already has images of environments.  It had four pages of a game that had options to select.  I cancelled “//“ the work done using the last two pages.  I kept the first page as a landing start button option.  Then, the second page is the experience of the environment.  I designed an image on Raw Pixels to create an image of a make-believe whale’s mouth.  I found an MP3 file of the sound underwater, simulating the sound inside a whale. I add both files to the folder.  I rewrote the starting page and the click start action button and changed the button size.  
